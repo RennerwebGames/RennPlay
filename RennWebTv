@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>  
+<channel>
+<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white] PLUTO  [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]*[COLOR bora relembrar a infancia [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/pluto%20tv</externallink>
+</channel>
+  
+  <channel>
+<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white] RUNTIME   [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]*[COLOR] RUNTIME   [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/runtimetv</externallink>
+</channel>
+  
+  <channel>
+<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white] CANAL RICOS [/COLOR][/B][B] [COLOR yellow] ( MANUTENÇÃO) [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]*[COLOR] CANAL RICOS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/canal%20ricos</externallink>
+</channel>
+
+ 
+ 
+ 
+</channels>
