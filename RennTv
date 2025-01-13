@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+  
+
+  
+
+<channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]RÊNN PLAY SERVIDOR 1 - Lista Nando [COLOR green] ON    [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES DE TV LISTAS ACHADAS NA INTERNET [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
+</channel>
+
+
+ 
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]RÊNN PLAY SERVIDOR 2 [COLOR  blue]LISTA PERSONALIZADA [COLOR green] ON [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]TESTES LISTAS PERSONALIZADAS [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
+
+ 
+ <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]RÊNN PLAY SERVIDOR 3 - [COLOR  red] PORTUGAL  [COLOR green] ON  [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/PORTUGAL.xml</externallink>
+</channel>
+
+
+
+  
+  <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR yellow]RÊNN PLAY SERVIDOR YOUTUBE - séries/desenhos  [COLOR red] EM CONSTRUÇÃO [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24hs%20YouTube%20.xml</externallink>
+</channel>
+
+
+    
+  <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]RÊNN PLAY SERVIDOR - RÊNN PLAY CANAIS 24 HRS [COLOR green]ON [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/3z6FMz0/capa-demo.jpg</thumbnail>
+<fanart>https://i.ibb.co/3z6FMz0/capa-demo.jpg</fanart>
+<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
+</channel>
+  
+  
+
+  
+</channels>
