@@ -1,55 +1,507 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
 
-
+<channels> 
 <channel>
-<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white]SÉRIES 2024 [/COLOR][/B]</name>
-<thumbnail>https://ia801402.us.BILL.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
-<fanart>https://ia601506.us.BILL.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]LOCAL DE SERIES EM ANDAMENTOS E SERIES ACABADAS [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/S%C3%89RIES%2024</externallink>
-</channel>  
-
-   
-<channel>
-<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white]SÉRIES 2023 [/COLOR][/B]</name>
-<thumbnail>https://ia801402.us.BILL.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
-<fanart>https://ia601506.us.BILL.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]LOCAL DE SERIES EM ANDAMENTOS E SERIES ACABADAS [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/SERIES%2023.xml</externallink>
-</channel>  
-    
-    
-<channel>
-<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white]SÉRIES NOVAS 2022 [/COLOR][/B]</name>
-<thumbnail>https://ia801402.us.BILL.org/12/items/two-addons-series/two%20addons%20SERIES.jpg</thumbnail>
-<fanart>https://ia601506.us.BILL.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]LOCAL DE SERIES EM ANDAMENTOS E SERIES ACABADAS [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series%20andamento.xml</externallink>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ROUND 6 [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/round%206</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/tNUpYHgso5fvCdFb194ph1l4HfR.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
 </channel>
-
-<channel>
-<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white] SÉRIES NOSTALGICAS [/COLOR][/B]</name>
-<thumbnail>https://ia601409.us.BILL.org/8/items/two-addons-nostalgia/two%20addons%20NOSTALGIA.jpg</thumbnail>
-<fanart>https://ia601506.us.BILL.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]BORA RELEMBRAR AS SERIES Q MARCOU NOSSA HISTORIA [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/twoaddons/main/series%20nostalgia.xml</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR blue]RÊNN PLAY[/COLOR] * [COLOR white] SÉRIES DORAMAS [/COLOR][/B] [B][COLOR yellow] ( MANUTENÇÃO ) [/COLOR][/B]</name>
-<thumbnail>https://ia904708.us.BILL.org/5/items/drama_202211/drama.jpg</thumbnail>
-<fanart>https://ia601506.us.BILL.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]*[COLOR blue]BORA RELEMBRAR AS SERIES Q MARCOU NOSSA HISTORIA [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/DORAMAS.xml</externallink>
-</channel>
-
-
-
-
-
-
-    
- 
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] E SE?... [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/e%20se%3F</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/w29Z0WosgRlKdeQ8qabfzcmYuJ2.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DEXTER [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/dexter</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/w1iM0vkMz9XVCH1ZBiU3m1288G5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] INFERNO EM LÁ PALMA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/LA%20PALMA</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/ylwR62svIok0eq6HlE8ILwOa4fp.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RAISED BY WOLVES [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/raised%20by%20wolves</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois que a Terra é destruída por disputas religiosas e a raça humana beira a extinção, um arquiteto de androides ateu envia duas de suas criações, Mãe e Pai, para o planeta Kepler-22b com a intenção de iniciar uma nova colônia pacífica e sem deuses. Os androides tentam criar seus filhos humanos nesta misteriosa terra virgem, tarefa difícil e traiçoeira que é ameaçada pela chegada do Mitraico, ordem religiosa de humanos sobreviventes profundamente devotos.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] STAR WARS: SKELETON CREW [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/skeleton%20crew%20starwars</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/4Dr8mPDBhuSsrGBSx5n8cL1gSki.jpg</thumbnail>
+<fanart></fanart>
+<info>do universo Star Wars, acompanhamos um grupo de crianças que descobrem que uma força misteriosa em seu planeta natal, mostrando que o lugar não é tão seguro quanto pensavam e acabam perdidas pela galáxia. Enquanto se esforçam para sobreviver e se manter unidos, os quatro se deparam com situações de risco e ameaças, como o perigoso Jod Na Nawood (Jude Law). A história se passa pouco depois de O Retorno de Jedi e da queda do Império, assim como The Mandalorian.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SENNA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/senna</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/wqNSJDA1JTAINDwpTJOykh9TBhJ.jpg</thumbnail>
+<fanart></fanart>
+<info>A minissérie Senna conta a história de Ayrton Senna, herói brasileiro dentro e fora das pistas da Fórmula 1. Ao longo de seis episódios, a produção mergulha na trajetória do piloto com um olhar intimista acerca de Ayrton como piloto e como pessoa, contando com a colaboração ativa de sua família no desenvolvimento da série. A trama de Senna se desenrola a partir da largada da carreira do automobilista, na Fórmula Ford, e acompanha sua jornada até o trágico acidente que tirou sua vida e deixou um país inteiro de luto, no Grande Prêmio de San Marino. </info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ORIGEM [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/origem</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/g77cgYpGeTkhKsaBnjWOyjYP9xP.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DUNA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/duna</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/9kyqa103Ih22hT955ZaZdipAOAD.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SILO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/silo</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/rdXhVZvUegRqgMFFw6j2T76lLRl.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] COBRA KAI [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/cobra%20kai</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] YU YU HAKUSHO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/yu%20yu%20hakusho</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/jrvYfWCcLqhekCbZuPF8o5k4Ryh.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LIONES [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/liones</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] GAME OF THORNES [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/game%20of%20thrones</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/l2ezB41chGDjXcKo24lseuXYtKP.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] PINGUIM  1º TEMPORADA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/pinguim   </externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/3mXRH5kgklD8eOEKbw76VdM3sKv.jpg</thumbnail>
+<fanart></fanart>
+<info>Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] STALLONE TULSA KING 2º TEMPORADA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/stallone%20tulsa%20king</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/zMFAdj30K84Sz90bCd6ePwiAO37.jpg</thumbnail>
+<fanart></fanart>
+<info>Logo após ser libertado da prisão após 25 anos, o capo da máfia de Nova York Dwight O General Manfredi é exilado sem cerimônia por seu chefe para se estabelecer em Tulsa, Oklahoma. Percebendo que sua família mafiosa pode não ter seus melhores interesses em mente, Dwight lentamente constrói uma equipe de um grupo de personagens improváveis, para ajudá-lo a estabelecer um novo império do crime em um lugar que para ele poderia ser outro planeta.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] OS ANÉIS DO PODER [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/aneis%20do%20poder</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/9mZhIun3HhIUi2jneZzm5D20ZTj.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] CIDADE DE DEUS-A LUTA NÃO PARA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/cidade%20de%20deus%20a%20luta%20n%C3%A3o%20para</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/bROpzy08O9nSyfDgBUlgUoMp9nw.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SÍLVIO SANTOS - O REI DA TV [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/silvio%20santos</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/6Wo3lnnZnKMBEAN8wk5IQL3icn6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] TED [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/ted</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/m2A9Js2rMkyLBYTKnbp2EmN3YiD.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] MANDALORIANO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/mandaloriano</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LÁ CASA DE PAPEL BERLIM [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/casa%20de%20papel%20berlim</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/aOv5c4PJmQn3sBdrGVThVIyxQpH.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] LÁ CASA DE PAPEL [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/la%20casa%20de%20papel</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/zd8mxIfGY8SlupYd9XvK3qJL91B.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] A CASA DO DRAGÃO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/a%20casa%20do%20dragao</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/gDiHb8Zzetaq1E7gkYDVnyKZ9mA.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels> 
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SWEET HOME [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/sweet%20home</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/tB3N2GfA5krC53vQCChLZaCRT6n.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] VIKINGS  - VALHALLA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/vikings%20valhalla</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/izIMqapegdEZj0YVDyFATPR8adh.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ACIMA DE QUALQUER SUSPEITA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/presumed</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/4pvvSFNIgm6TDuETajfCIklvyp6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] SWEET TOOTH [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/sweet%20tooth</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/9Kj9I039B73iSXqeQEgyDCzPfss.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] STAR WARS - THE ACOLYTE [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/the%20acolyte</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/llcq1fIwtk7MYdm0YCZCX9MnKhz.jpg</thumbnail>
+<fanart></fanart>
+<info>Um thriller de mistério ambientado em uma galáxia de segredos sombrios e poderes emergentes do lado negro nos dias finais da era da Alta República.</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] DOM [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/dom</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/uxwyqVuIie4d20ptopuSjyZbWsX.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] BEBÊ RENA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/bebe%20rena</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/fJQhUBShLBPSKNzcGg1tf0kHMyo.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] FALLOUT [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/fallout</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/celTNAZL0bIw8pO6KZzWd7MAKMT.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] RAINHA VERMELHA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/rainha%20vermelha</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/gyhrej8aCwB6bGYodzrvAoxMYIZ.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] PARASYTE THE GREY [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/parasyte%20the%20grey</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O PROBLEMA DOS 3 CORPOS [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/3%20corpos</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/aqM8F5q59Z7sKAxKNXOKsu0rEJJ.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] ÚLTIMO ATO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/%C3%BAltimo%20ato</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/nlNrTgQwPZozoE4xxr7C41YBszn.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] O SINAL [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/o%20sinal</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/xVHQs2SjbcMy3kLabuWHbfWr5n6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white] HULK 1977 [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/hulk%201977</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  STAR WARS OBI-WAN KENOBI [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/obi-wan%20kenobi</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  REBEL MOON [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/rebel%20moon</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/17fiEIxD7ClGW33IdxpRb0mdXgF.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  LA BREA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/la%20brea</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
+<channel>
+<name>[I][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR  white]  SUPERMAN & LOS [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/superman%20%26%20lois</externallink>
+<thumbnail>https://media.themoviedb.org/t/p/original/qyCwyFztdccvu1Y62INkLFKp2Pp.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+
 
