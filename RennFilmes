@@ -3,12 +3,12 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  Yellow][COLOR yellow] LANÇAMENTOS [/COLOR][B][COLOR white] **** [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name> 
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white][COLOR white] LANÇAMENTOS [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/RennerwebGames/RennPlay/refs/heads/main/RennCartaz</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR yellow][/COLOR]</info>
+[COLOR white][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR white][/COLOR]</info>
 </channel>
 </channels>
 
@@ -16,55 +16,55 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  Yellow][COLOR yellow]  NOSTALGIA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name> 
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white][COLOR white]  NOSTALGIA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/nostalgia</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR yellow][/COLOR]</info>
+[COLOR white][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR white][/COLOR]</info>
 </channel>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  Yellow][COLOR yellow] DRÁCULA & LOBISOMEM [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name> 
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white][COLOR white] DRÁCULA & LOBISOMEM [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/dracula%20vs%20lobisomem</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR yellow][/COLOR]</info>
+[COLOR white][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR white][/COLOR]</info>
 </channel>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  Yellow][COLOR yellow] DC & MARVEL [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name> 
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white][COLOR white] DC & MARVEL [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/dc%20vs%20marvel</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR yellow][/COLOR]</info>
+[COLOR white][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR white][/COLOR]</info>
 </channel>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  Yellow][COLOR yellow] TECNOLOGIA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name> 
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white][COLOR white] TECNOLOGIA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name> 
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/tecnologia</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
 <info>
-[COLOR yellow][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR yellow][/COLOR]</info>
+[COLOR white][/COLOR]-ADICIONADOS RECENTEMENTE-[COLOR white][/COLOR]</info>
 </channel>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] MISTÉRIO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] MISTÉRIO [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/misterio</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] CRIME [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] CRIME [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/crime</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -88,7 +88,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] GUERRA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] GUERRA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/refs/heads/main/guerra</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -100,7 +100,7 @@
  
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] FICÇÃO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] FICÇÃO [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/ficcao</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -112,7 +112,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] AÇÃO [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] AÇÃO [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/acao</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -124,7 +124,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] SUSPENSE [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] SUSPENSE [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/suspense</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -136,7 +136,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] TERROR [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] TERROR [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/terror</externallink>
 <thumbnail>https://</thumbnail> 
 <fanart></fanart>
@@ -148,7 +148,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] ROMANCE [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] ROMANCE [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/romance</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -160,7 +160,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] AVENTURA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] AVENTURA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/aventura</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -172,7 +172,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] NACIONAL [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] NACIONAL [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/nacional</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -184,7 +184,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] DRAMA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] DRAMA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/drama</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>https://</fanart>
@@ -196,7 +196,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] FAROESTE [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] FAROESTE [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/faroeste</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -208,7 +208,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] DOCUMENTÁRIOS [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] DOCUMENTÁRIOS [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/documentario</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -220,7 +220,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] LEGENDA FIXA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] LEGENDA FIXA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/legenda%20fixa</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -232,7 +232,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] EVANGÉLICOS [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] EVANGÉLICOS [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/evangelicos</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -244,7 +244,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] FAMÍLIA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] FAMÍLIA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/familia</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
@@ -256,7 +256,7 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] COMÉDIA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
+<name>[I][COLOR red][/COLOR][COLOR orangered][/COLOR][COLOR  white] COMÉDIA [/COLOR][B][COLOR orangered] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR orangered][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/comedia</externallink>
 <thumbnail>https://</thumbnail>
 <fanart></fanart>
