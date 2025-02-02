@@ -220,42 +220,6 @@
 
 <channels>
 <channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] DESENHOS [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/desenhos</externallink>
-<thumbnail>https://</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-<channels>
-<channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] ANIME [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/anime</externallink>
-<thumbnail>https://</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-<channels>
-<channel>
-<name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] TOKUSATSU [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
-<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/tokusatsu</externallink>
-<thumbnail>https://</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-<channels>
-<channel>
 <name>[I][COLOR red][/COLOR][COLOR white][/COLOR][COLOR  yellow] LEGENDA FIXA [/COLOR][B][COLOR white] <<<<<< [/COLOR][/B][COLOR red][/COLOR][COLOR white][/COLOR][/I]</name>
 <externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/legenda%20fixa</externallink>
 <thumbnail>https://</thumbnail>
